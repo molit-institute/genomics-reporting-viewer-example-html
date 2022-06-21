@@ -1,5 +1,5 @@
 # @molit/genomics-reporting-viewer in HTML example
-This is an example Project showcasing the useage of @molit/genomics-reporting-viewer in an HTML-Project.
+This is an example Project showcasing the usage of @molit/genomics-reporting-viewer in an HTML-Project.
 
 ## Installation 
 
